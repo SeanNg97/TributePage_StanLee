@@ -1,0 +1,47 @@
+*{
+  font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, Sans-Serif;
+}
+
+body{
+  	background: #b59c89;
+}
+
+
+.container{
+  padding: 30px 0;
+  border-radius: 30px;
+  background: #fae9df;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1,h2,h6{
+text-align: center;
+}
+
+h1{
+  margin: 0;
+  padding:0;
+}
+
+p{
+  font-size: 16px;
+  text-align: center;
+}
+
+
+img{
+  width: 600px;
+}
+
+
+ul{
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+
+ul li{
+  text-align: justify;
+}
